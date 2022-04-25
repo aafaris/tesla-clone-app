@@ -1,3 +1,3 @@
 # tesla-clone
 
-Tesla Clone Mobile App
+Tesla Clone Mobile App with Expo CLI
